@@ -1,4 +1,4 @@
-# Tyroo Coding Assessment – CSV Data Processor
+CSV Data Processor
 
 This project downloads a large compressed CSV file, processes it efficiently in chunks using Pandas, performs data cleaning and transformation, and stores the result into a PostgreSQL database.
 
