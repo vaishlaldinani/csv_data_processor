@@ -40,7 +40,7 @@ createdb cdp_db
 
 ```sql
 -- Run in psql shell
-CREATE USER tyroo_user WITH PASSWORD 'cdp_pass';
+CREATE USER cdp_user WITH PASSWORD 'cdp_pass';
 GRANT ALL PRIVILEGES ON DATABASE cdp_db TO cdp_user;
 ```
 
